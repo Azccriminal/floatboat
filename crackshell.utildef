@@ -1,0 +1,8 @@
+ABS-syntaxnizator-> **UTF-8**&_tilmacro;
+sysliner_dumper->new object(
+&shell-%bash -c "dump_char(&UTF8)" inline struct;{}
+dependicies=Floatboat-utils,float-typer,serialk,cbinder-python,shasum_liner,bcrypto;
+sysutil=kernel-utils,macrodefine,neographical-object;
+iso_loader=FORMAT_CTYPES_PYTHON_CBINDER(=CXX11)_default;
+/* used non-compability iso_standart=C_TYPES(&=C99);
+
