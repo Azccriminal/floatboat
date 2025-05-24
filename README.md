@@ -29,6 +29,6 @@ By using software compliant with SPELF standards, you acknowledge and agree to a
 For more information, contact the license holders:
 - Azzcriminal
 - Azencorporation
-
+## Project bulding basic structure
 ![Project-build](https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png)
 
