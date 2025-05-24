@@ -31,8 +31,9 @@ For more information, contact the license holders:
 * Azzcriminal
 * Azencorporation
 
-== Project building basic structure
 
-image::https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png[Project-build]
+## Project building basic structure
 
-If you want to understand and support the Project architectural structure, link:https://azccriminal.space/docs/spelf-standartly-doc.html[click here].
+<img src="https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png" alt="Project-build" width="500"/>
+
+[If you want to understand and support the Project architectural structure, click here.](https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png)
