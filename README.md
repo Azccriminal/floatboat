@@ -36,4 +36,4 @@ For more information, contact the license holders:
 
 <img src="https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png" alt="Project-build" width="500"/>
 
-[Documentary](https://azccriminal.space/docs/spelf-standartly-doc.htm)
+[Documentary](https://azccriminal.space/docs/spelf-standartly-doc.html)
