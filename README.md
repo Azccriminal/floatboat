@@ -1,8 +1,10 @@
+<p style="font-size: 0.8em; font-style: italic;">
+
 # SPELF License Agreement
 
 ## Secure Portable Executable Linktable Formativable (SPELF) Standards
 
-The SPELF standards are an open-source executable file standard legally implemented by **Azzcriminal** and **Azencorporation**. Anyone who complies with these standards is authorized to use the SPELF format.
+The SPELF standards are an open-source executable file standard legally implemented by <strong>Azzcriminal</strong> and <strong>Azencorporation</strong>. Anyone who complies with these standards is authorized to use the SPELF format.
 
 ## Legal and Licensing Conditions
 
@@ -29,6 +31,9 @@ By using software compliant with SPELF standards, you acknowledge and agree to a
 For more information, contact the license holders:
 - Azzcriminal
 - Azencorporation
+
 ## Project bulding basic structure
 ![Project-build](https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png)
+[If you want to understand and support the Project architectural structure.](https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png)
 
+</p>
