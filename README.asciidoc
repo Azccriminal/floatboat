@@ -32,7 +32,7 @@ For more information, contact the license holders:
 * Azencorporation
 
 == Project building basic structure
+image::https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png[Project-build, 600, 400]
 
-image::https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png[Project-build]
 
 If you want to understand and support the Project architectural structure, link:https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png[click here].
