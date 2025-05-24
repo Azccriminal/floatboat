@@ -30,5 +30,5 @@ For more information, contact the license holders:
 - Azzcriminal
 - Azencorporation
 
-![Project-build](https://raw.githubusercontent.com/Azccriminal/floatboat/blob/main/floatboat-schema-projectv1.png)
+![Project-build](https://raw.githubusercontent.com/Azccriminal/floatboat/main/floatboat-schema-projectv1.png)
 
